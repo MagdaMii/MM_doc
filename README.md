@@ -18,7 +18,7 @@ I create documentation that makes complex systems easy to understand. My focus i
   Structured updates ensuring transparency and stakeholder alignment.
 
 - **Data & Business Intelligence Documentation**  
-  Coveriing Headless BI, reporting solutions, and analytics platforms.
+  Covering Headless BI, reporting solutions, and analytics platforms.
 
 - **Installation, Administration & Configuration Guides**  
   End-to-end instructions for deployment and system management.
@@ -93,7 +93,7 @@ I create documentation that makes complex systems easy to understand. My focus i
 ## 🧩 Work Style
 
 - **Remote-First & Async Collaboration**  
-  Thrives in distributed teams with clear communication and flexibility.
+  Works effectively in distributed teams with clear communication and flexibility.
 
 - **Strong Ownership of Documentation Lifecycle**  
   Manages content from planning through delivery and continuous improvement.
@@ -102,5 +102,5 @@ I create documentation that makes complex systems easy to understand. My focus i
   Ensures documentation is easy to understand, scalable, and impactful.
 
 - **Adaptable to Fast-Changing Technical Environments**  
-  Comfortable working with evolving technologies and agile process
+  Comfortable working with evolving technologies and agile process.
 
