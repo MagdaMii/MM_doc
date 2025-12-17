@@ -1,6 +1,5 @@
-# Technical-Author-portfolio
+# Magdalena Mika
 
-Magdalena Mika
 
 Senior Technical Author | API & Product Documentation
 
