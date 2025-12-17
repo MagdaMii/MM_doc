@@ -3,7 +3,7 @@
 
 **Senior Technical Author | API & Product Documentation**
 
-I craft clear, scalable documentation that simplifies complex systems and accelerates user adoption. With deep expertise in product content, I transform technical concepts into actionable, user-focused resources for developers, analysts, and business users always aligned with product and engineering.
+I create documentation that makes complex systems easy to understand. My focus is on clarity, scalability, and delivering real value to users. With deep expertise in product content, I transform technical concepts into actionable, user-focused resources for developers, analysts, and business users always aligned with product and engineering.
 
 
 ## 💡 Core Expertise
