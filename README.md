@@ -30,6 +30,7 @@ I craft clear, scalable documentation that simplifies complex systems and accele
   Delivering content that meets stringent industry and organizational standards
 
 
+
 ## 🚀 What I Deliver
 
 - 📘 **End-User Guides & Product Documentation**  
@@ -48,6 +49,7 @@ I craft clear, scalable documentation that simplifies complex systems and accele
   In-depth explanations of data structures, analytics workflows, and reporting tools  In-depth explanations of data structures, analytics workflows, and reporting tools.
 
 - 💡 **Knowledge Base Articles**  
+
 
   
 ## 🏆 Selected Achievements
@@ -73,6 +75,11 @@ I craft clear, scalable documentation that simplifies complex systems and accele
 
 - ✍️ **Markdown, Confluence, Git, Jira**  
   Core tools for authoring, collaboration, and version control.
+  
+🎥 Media & Training Content
+
+- 📹 **Instructional Videos with Camtasia**  
+  Creating engaging, step-by-step video tutorials to complement written documentation.
 
 - 🗄️ **SQL**  
   Documentation and analysis-level expertise for data structures.
