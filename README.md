@@ -76,8 +76,6 @@ I create documentation that makes complex systems easy to understand. My focus i
 - **Markdown, Confluence, Git, Jira**  
   Core tools for authoring, collaboration, and version control.
   
-🎥 Media & Training Content
-
 - **Instructional Videos with Camtasia**  
   Creating engaging, step-by-step video tutorials to complement written documentation.
 
