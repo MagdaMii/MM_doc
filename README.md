@@ -1,77 +1,73 @@
 # Technical-Author-portfolio
+
+Magdalena Mika
+
 Senior Technical Author | API & Product Documentation
 
 I am a senior technical author with experience delivering clear, scalable documentation for complex systems. I specialize in transforming technical knowledge into user-focused content that supports developers, analysts, and business users, while aligning with product and engineering goals.
 
-Core Expertise
+## Core Expertise
 
-Technical documentation for complex systems
+- Technical documentation for complex systems
 
-API & integration documentation (REST, JSON, OpenAPI)
+- API & integration documentation (REST, JSON, OpenAPI)
 
-Release notes & change communication
+- Release notes & change communication
 
-Data & BI documentation (Headless BI, reporting, analytics)
+- Data & BI documentation (Headless BI, reporting, analytics)
 
-Installation, administration & configuration guides
+- Installation, administration, and configuration guides
 
-Information architecture & content standardization
+- Information architecture and content standardization
 
-Documentation for regulated or enterprise environments
+- Documentation for regulated or enterprise environments
 
-What I Deliver
+## What I Deliver
 
-End-user guides and product documentation
+- End-user guides and product documentation
 
-Installation & Administration Guides
+- Installation & Administration Guides
 
-Release Notes and Upgrade Guides
+- Release Notes and Upgrade Guides
 
-API reference and developer onboarding materials
+- API reference and developer onboarding materials
 
-Data model and reporting documentation
+- Data model and reporting documentation
 
-Knowledge base articles and FAQs
+- Knowledge base articles
 
-Selected Achievements
+## Selected Achievements
 
-Improved documentation clarity and usability for reporting and BI platforms
+- Improved documentation clarity and usability for reporting and BI platforms
 
-Standardized release notes and upgrade instructions to reduce support requests
+- Standardizedrelease notes and upgrade instructions to reduce support requests
 
-Documented data structures and materialized views to support Headless BI solutions
+- Documented data structures and materialized views to support Headless BI solutions
 
-Collaborated closely with developers and product teams to ensure accuracy and consistency
+- Collaborated closely with developers and product teams to ensure accuracy and consistency
 
-Created documentation that supports both technical and non-technical audiences
+- Created documentation that supports both technical and non-technical audiences
 
-Tools & Technologies
+## Tools & Technologies
 
-Markdown, Confluence, Git, Jira
+- Markdown, Confluence, Git, Jira
 
-Swagger / OpenAPI
+- Swagger / OpenAPI
 
-SQL (documentation & analysis level)
+- SQL (documentation & analysis level)
 
-Diagramming tools (draw.io, Lucidchart)
+- Diagramming tools (draw.io)
 
-CI/CD-aware documentation workflows
+- CI/CD-aware documentation workflows
 
-Work Style
 
-Remote-first, async collaboration
+## Work Style
 
-Strong ownership of documentation lifecycle
+- Remote-first, async collaboration
 
-Focus on clarity, maintainability, and user value
+- Strong ownership of documentation lifecycle
 
-Comfortable working in fast-changing technical environments
+- Focus on clarity, maintainability, and user value
 
-Availability
+- Comfortable working in fast-changing technical environments
 
-B2B cooperation (remote)
-
-Open to long-term collaboration
-
-📩 Contact: [email / LinkedIn]
-🌐 Portfolio / Blog: [link]
